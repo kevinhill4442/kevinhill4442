@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Kevin (@kevinhill4442) 👋
 
-<!--
-**kevinhill4442/kevinhill4442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Berlin. I spend most of my time automating cloud setups, fixing broken deployments, and keeping CI/CD pipelines green.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building automated Kubernetes cluster rollouts using Terraform.
+- Writing Bash glue code for custom CI runner workflows.
+- Digging into multi-region high availability patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+`Linux` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Bash`
+
+#### Connect
+- LinkedIn: linkedin.com/in/kevinhill4442
+- Email: kevinhill4442@pm.me
